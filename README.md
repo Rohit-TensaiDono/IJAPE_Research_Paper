@@ -28,6 +28,8 @@ The research is grounded in a comprehensive review of related literature, includ
 ![Screenshot 2023-12-09 175718](https://github.com/Rohit-TensaiDono/IJEECS_Research_Paper/assets/91181495/0cbfdf6c-ac7a-447d-a744-70451e0b3486)
 ](url)
 
+![Screenshot 2023-12-09 180411](https://github.com/Rohit-TensaiDono/IJEECS_Research_Paper/assets/91181495/9cd90c34-7709-4e4c-b053-7b8761901ec1)
+
 The proposed approach is substantiated through experimental results, showcasing its effectiveness in accurately classifying diverse ADL scenarios. The adaptability and robustness of the system are demonstrated under various usage patterns, providing evidence of its practical utility.
 
 ## How to Use
@@ -35,8 +37,6 @@ The proposed approach is substantiated through experimental results, showcasing 
 To replicate the experiments and leverage the ADL classification system, follow the instructions in the provided documentation. Ensure that you have the necessary dependencies installed and configure the system according to your smart home environment.
 
 ## Contributions
-![Screenshot 2023-12-09 180411](https://github.com/Rohit-TensaiDono/IJEECS_Research_Paper/assets/91181495/9cd90c34-7709-4e4c-b053-7b8761901ec1)
-
 
 This research contributes to the field of smart home technology by offering an advanced method for ADL classification. The integration of Smart Meter and Smart Switch data provides a holistic perspective on energy consumption patterns, opening avenues for improved energy management and informed decision-making within smart homes.
 
